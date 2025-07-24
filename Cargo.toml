@@ -41,7 +41,7 @@ db = { package = "forest_db", git = "https://github.com/ChainSafe/forest", rev =
 dirs = "5"
 dotenv = "0.15.0"
 ethers = "2.0.0"
-integer-encoding = "3.0.4"
+integer-encoding = "4.0.2"
 ipld_traversal = { git = "https://github.com/kckeiks/rs-graphsync.git", rev = "21b3579cf19dccf428787304dd75ebcd0fb5adb7" }
 fastmurmur3 = "0.1.2"
 fnv = "1.0.7"
